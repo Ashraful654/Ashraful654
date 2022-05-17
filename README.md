@@ -37,3 +37,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashraful654)
    
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654" /> </p>
