@@ -1,5 +1,6 @@
 
-https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif
+
+<p align="center"> <img src="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" alt="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
