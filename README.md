@@ -33,9 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashraful654)
-    <p align="center">
-      <a href="https://github.com/MojiburRahaman">
-        <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-      </a>
-      <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-    </p>
+   
