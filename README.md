@@ -1,10 +1,8 @@
 
 
-<p align="center"> <img src="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" alt="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" /> </p>
-
-
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
 <h3 align="center">Web And Software Developer from Bangladesh</h3>
+<p align="center"> <img src="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" alt="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" /> </p>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654" /> </p>
   
