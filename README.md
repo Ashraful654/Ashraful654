@@ -8,15 +8,14 @@
 <p align="center"> <a href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a> </p>
                                                                                                                                   
  <br/>
-<p align="center">
+
 - 🌱 I’m currently learning **Backend Technologies**
-</p>
-<p align="center" >
+
 - 👨‍💻 All of my projects are available at [Coming-Soon](Empty)
-</P>
-<p align="center">
+
+
 - 📫 How to reach me **ashrfulislam222@gmail.com**
-</p>
+
 
 #
 <h3 align="center">Connect with me:</h3>
