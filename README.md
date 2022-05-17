@@ -9,13 +9,14 @@
  <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful654" alt="ashraful654" /></a> </p>
  <br/>
-
+<p align="center">
 - 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [Empty](Empty)
 
 - 📫 How to reach me **ashrfulislam222@gmail.com**
-#
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
