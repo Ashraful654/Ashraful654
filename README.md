@@ -8,8 +8,6 @@
 <p align="center"> <a href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a> </p>
                                                                                                                                   
  <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful654" alt="ashraful654" /></a> </p>
- <br/>
 <p align="center">
 - 🌱 I’m currently learning **Backend Technologies**
 </p>
