@@ -3,12 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
 <h3 align="center">Web And Software Developer from Bangladesh</h3>
 <br/>
-<p align="center"> <img align="left" src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654" />
+<p align="center"> 
+<img align="left" src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654" />
 <a align="right"  href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a> 
 </p>
                                                                                                                                   
  <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful654" alt="ashraful654" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful654" alt="ashraful654" /></a> </p>
  <br/>
 
 - 🌱 I’m currently learning **Backend Technologies**
@@ -16,6 +17,7 @@
 - 👨‍💻 All of my projects are available at [Empty](Empty)
 
 - 📫 How to reach me **ashrfulislam222@gmail.com**
+#
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
