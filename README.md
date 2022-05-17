@@ -3,12 +3,15 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
 <h3 align="center">Web And Software Developer from Bangladesh</h3>
 <br/>
-<img src="https://img.shields.io/github/stars/Ashraful654?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+<p> <imgalign="left"> src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654"/> 
+ <a align="right"> href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a>
+</p>
+ <br/>
+
  <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful654" alt="ashraful654" /></a> </p>
  <br/>
-<p align="left"> <a href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a> </p>
- <br/>
+
 - 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [Empty](Empty)
@@ -28,9 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful654&show_icons=true&locale=en&layout=compact" alt="ashraful654" /></p>
  <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraful654&show_icons=true&locale=en" alt="ashraful654" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p> 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraful654&show_icons=true&locale=en" alt="ashraful654" /></p>
+<br/>
+<palign="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashraful654)
    
