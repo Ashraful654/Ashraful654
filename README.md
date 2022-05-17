@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
 <h3 align="center">Web And Software Developer from Bangladesh</h3>
 <br/>
-<p align="left
-<p><img src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654" /></p>
-<p align="left"> <a href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a> </p>                                                                                                                            
+<p align="center"
+<p align="left" ><img src="https://komarev.com/ghpvc/?username=ashraful654&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful654" /></p>
+<p align="right"> <a href="https://twitter.com/ashraful1165" target="blank"><img src="https://img.shields.io/twitter/follow/ashraful1165?logo=twitter&style=for-the-badge" alt="ashraful1165" /></a> </p>                                                                                                                            
                                                                                                                            
 </p>
  <br/>
