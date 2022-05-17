@@ -9,11 +9,11 @@
                                                                                                                                   
  <br/>
 
-<p align="center">
+
 - 🌱 I’m currently learning **Backend Technologies**
 - 👨‍💻 All of my projects are available at [Coming-Soon]
 - 📫 How to reach me **ashrfulislam222@gmail.com** 
-</p>
+
 
 
 #
