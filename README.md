@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center"> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> 
+<h3 align="center"> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a> 
   Web And Software Developer from Bangladesh</h3>
 <p align="center"> <img src="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" alt="https://github.com/Ashraful654/Ashraful654/blob/main/giphy.gif" /> </p>
 <br/>
