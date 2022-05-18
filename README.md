@@ -29,6 +29,8 @@
 </p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p>
 
+</br>
+<p align="center" ><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful654&show_icons=true&locale=en&layout=compact" alt="ashraful654" /></p>
 
 
 
