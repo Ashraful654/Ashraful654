@@ -11,13 +11,11 @@
  <br/>
 
 <h6 align="center">
-  - 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Backend Technologies**
   
   <br/>
   
 - 👨‍💻 All of my projects are available at **[Coming-Soon]**
-  
-  <br/>
   
 - 📫 How to reach me **ashrfulislam222@gmail.com** </h6>
 
