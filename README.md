@@ -28,7 +28,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashraful654&show_icons=true&theme=radical"  />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful654&show_icons=true&locale=en&layout=compact" alt="ashraful654" />
  <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p> 
+ <br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" />
 
 
 #
