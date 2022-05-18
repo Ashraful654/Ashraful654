@@ -41,4 +41,7 @@
 <a href="https://stackoverflow.com/users/user:18266465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18266465" height="30" width="40" /></a>
 <a href="https://instagram.com/ashrful_islam_222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashrful_islam_222" height="30" width="40" /></a>
 </p>
+
+
+<p align="center"> ![GitHub metrics](https://metrics.lecoq.io/Ashraful654)  </p>
    
