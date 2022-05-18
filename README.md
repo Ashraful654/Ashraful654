@@ -43,5 +43,5 @@
 </p>
 
 
-<p align="center"> ![GitHub metrics](https://metrics.lecoq.io/Ashraful654)  </p>
+![GitHub metrics](https://metrics.lecoq.io/Ashraful654)
    
