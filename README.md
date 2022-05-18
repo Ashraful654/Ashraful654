@@ -35,9 +35,9 @@
 
 #
 
-![GitHub metrics](https://metrics.lecoq.io/Ashraful654"
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Ashraful654) -->
+  
+![GitHub metrics](https://metrics.lecoq.io/Ashraful654")
+ 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashraful654)
 
 
