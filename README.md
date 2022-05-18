@@ -35,7 +35,7 @@
 
 #
 
- <a href="![GitHub metrics](https://metrics.lecoq.io/Ashraful654)"></a> 
+ <a href="https://metrics.lecoq.io/Ashraful654"></a> 
   
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Ashraful654)   -->
  
