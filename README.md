@@ -27,7 +27,6 @@
 <p aling="center"> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashraful654&show_icons=true&theme=radical" />
 </p>
- <br/>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p>
 
 
