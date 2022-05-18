@@ -53,5 +53,4 @@
 </p>
 
 
-
-   
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ashraful654)](https://github.com/anuraghazra/github-readme-stats)
