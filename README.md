@@ -44,7 +44,7 @@
 <h3 align="center">
   
   
-<h4>
+<h4 align="left" width="47%">
   
   
   ![GitHub metrics](https://metrics.lecoq.io/Ashraful654) 
