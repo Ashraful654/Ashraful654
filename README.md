@@ -30,11 +30,7 @@
 
 </br>
 
-<h3 align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful654)](https://github.com/anuraghazra/github-readme-stats)
-  
-</h3>
 
 
 #
@@ -50,7 +46,14 @@
   ![GitHub metrics](https://metrics.lecoq.io/Ashraful654) 
   
   
-  </h4>  
+  </h4> 
+  
+  
+  <h4 align="center" width="47%">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful654)](https://github.com/anuraghazra/github-readme-stats)
+  
+</h4>
 
  
   
