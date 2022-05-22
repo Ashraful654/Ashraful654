@@ -29,7 +29,11 @@
 <p align="center"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful654&" alt="ashraful654" /></p>
 
 </br>
+  <h4 align="center" width="47%">
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful654)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </h4>
 
 
 
@@ -48,11 +52,7 @@
   
   </h4> 
    
-  <h4 align="right" width="47%">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful654)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </h4>
 
  
   
