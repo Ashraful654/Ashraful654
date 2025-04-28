@@ -30,9 +30,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
 </a> <a href="https://laravel-livewire.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/laravel-livewire/livewire/master/.github/images/livewire-logo.png" alt="Livewire" width="40" height="40"/>
-</a> <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="xmlns="http://www.w3.org/2000/svg"" alt="Jira" width="40" height="40"/><br>Jira
-  </a> </p>
+</a> </p>
 
  <br/>
 
