@@ -25,7 +25,9 @@
     <img src="https://www.svgrepo.com/show/373595/livewire.svg" alt="Livewire" width="40" height="40"/><br
   </a>   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a> > </p>
+  </a>   <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><br>
+  </a> </p>
 
  <br/>
 
