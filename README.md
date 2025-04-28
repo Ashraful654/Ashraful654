@@ -29,6 +29,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><br>
   </a> <a href="https://laravel.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/><br>
+</a> <a href="https://laravel-livewire.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/laravel-livewire/livewire/master/resources/img/logo.png" alt="Livewire" width="40" height="40"/><br>Livewire
+</a> <a href="https://laravel.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/><br>Laravel
 </a> </p>
 
  <br/>
