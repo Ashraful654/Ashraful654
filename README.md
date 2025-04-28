@@ -31,11 +31,11 @@
 </a> <a href="https://laravel-livewire.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/laravel-livewire/livewire/master/.github/images/livewire-logo.png" alt="Livewire" width="40" height="40"/>
 </a>  </p>
-</a> <a href="https://www.atlassian.com/software/jira" target="_blank">
+ <a href="https://www.atlassian.com/software/jira" target="_blank">
  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-           width="40" height="40"/>
-</a>  </p>
+
+</a> 
 
  <br/>
 
