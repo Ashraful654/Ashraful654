@@ -32,9 +32,7 @@
   <img src="https://raw.githubusercontent.com/laravel-livewire/livewire/master/.github/images/livewire-logo.png" alt="Livewire" width="40" height="40"/>
 </a>  </p>
  <a href="https://www.atlassian.com/software/jira" target="_blank">
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="Livewire" width="40" height="40"/>
 </a> 
 
  <br/>
