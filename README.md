@@ -44,24 +44,13 @@
 
 <h3 align="center">
   
-  
-<h4 align="left" width="47%">
-  
-  
-  ![GitHub metrics](https://metrics.lecoq.io/Ashraful654) 
-  
-  
-  </h4> 
-   
+
 
 
  
   
 </h3>
   
- 
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashraful654)  
 
 
 #
