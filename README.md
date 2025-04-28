@@ -25,9 +25,7 @@
     <img src="https://www.svgrepo.com/show/373595/livewire.svg" alt="Livewire" width="40" height="40"/><br
   </a>   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>   <a href="https://laravel-livewire.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/373595/livewire.svg" alt="Livewire" width="40" height="40"/><br>Livewire
-  </a> </p>
+  </a> > </p>
 
  <br/>
 
